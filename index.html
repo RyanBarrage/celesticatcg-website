@@ -15,9 +15,9 @@
             overflow-x: hidden;
         }
 
-        header {
+        /*header {
             background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
-            padding: 10px 20px;
+            padding: 20px;
             display: flex;
             align-items: center;
             justify-content: space-between;
@@ -32,7 +32,20 @@
                     top: 50%;
                     left: 50%;
                     transform: translate(-50%, -50%);
-                }
+                }*/
+
+        header {
+            background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+            padding: 20px;
+            position: relative;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            text-align: center;
+        }
+
+        .title-container {
+            display: inline-block;
+            text-align: center;
+        }
         
         header h1 {
             font-family: 'Audiowide', serif;
@@ -42,16 +55,14 @@
         }
 
         /* Navigation Buttons */
-        /*.nav-buttons {
+        nav-container {
             display: flex;
             justify-content: center;
-            gap: 20px;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 100%;
-        }*/
+            align-items: center;
+            gap: 30px;
+            margin-top: 10px;
+        }
+        
         .nav-buttons {
             display: flex;
             gap: 20px;
@@ -71,15 +82,10 @@
             background: rgba(57, 255, 20, 0.4); /* Brighter ethereal green on hover */
         }
 
-        /* Logo */
-        /*.logo {
-            margin: 10px auto;
-            text-align: center;
-        }*/
-
         .logo img {
             width: 50px;
             height: auto;
+            margin-top: 5px;
             border-radius: 10px; /* Optional: Slightly round edges for a polished look */
         }
 
@@ -161,25 +167,27 @@
 </head>
 <body>
     <header>
-        <!-- Navigation Buttons (Left) -->
-        <div class="nav-buttons">
-            <a href="#how-to-play">How to Play</a>
-            <a href="#lore">Lore</a>
-            <a href="#cards">Cards</a>
-        </div>
-        <!-- Title and Logo (Center) -->
-        <div class="title-container">
-            <h1>Celestica TCG</h1>
-            <div class="logo">
-                <img src="https://raw.githubusercontent.com/RyanBarrage/celesticatcg-website/main/images/logo.png" alt="Celestica Logo">
+        <!-- Navigation Buttons -->
+        <div class="nav-container">
+            <!-- Navigation Buttons (Left) -->
+            <div class="nav-buttons">
+                <a href="#how-to-play">How to Play</a>
+                <a href="#lore">Lore</a>
+                <a href="#cards">Cards</a>
             </div>
-        </div>
-
-        <!-- Navigation Buttons (Right) -->
-        <div class="nav-buttons">
-            <a href="#news">News</a>
-            <a href="#events">Events</a>
-            <a href="#shop">Shop</a>
+            <!-- Title and Logo (Center) -->
+            <div class="title-container">
+                <h1>Celestica TCG</h1>
+                <div class="logo">
+                    <img src="https://raw.githubusercontent.com/RyanBarrage/celesticatcg-website/main/images/Celestica_Icon.png" alt="Celestica Logo">
+                </div>
+            </div>
+            <!-- Navigation Buttons (Right) -->
+            <div class="nav-buttons">
+                <a href="#news">News</a>
+                <a href="#events">Events</a>
+                <a href="#shop">Shop</a>
+            </div>
         </div>
     </header>
     <section class="hero">
