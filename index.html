@@ -23,11 +23,14 @@
             justify-content: center; /* Centers everything horizontally */
             gap: 30px; /* Creates space between nav and title/logo */
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            flex-wrap: wrap; /* Ensures elements wrap on smaller screens */
         }
 
         .nav-buttons {
             display: flex;
             gap: 15px;
+            flex-wrap: wrap; /* Stack buttons vertically on smaller screens */
+            justify-content: center; /* Align buttons horizontally or stack on mobile */
         }
 
         .nav-buttons a {
@@ -182,6 +185,65 @@
             padding: 20px;
             text-align: center;
             font-size: 0.9rem;
+        }
+        /* Media Queries for Mobile */
+        @media (max-width: 768px) {
+            header {
+                padding: 15px; /* Less padding on small screens */
+                flex-direction: column; /* Stack elements vertically */
+            }
+
+            .nav-buttons {
+                flex-direction: column; /* Stack nav buttons vertically */
+                gap: 10px; /* Reduce gap */
+                width: 100%;
+            }
+
+            .nav-buttons a {
+                padding: 8px 12px; /* Smaller padding for mobile */
+                font-size: 1rem; /* Increase font size on mobile for readability */
+            }
+
+            .title-container h1 {
+                font-size: 1.8rem; /* Smaller title on mobile */
+            }
+
+            .hero h2 {
+                font-size: 1.5rem; /* Smaller heading */
+            }
+
+            .hero p {
+                font-size: 1rem; /* Smaller paragraph text */
+            }
+
+            .hero a {
+                font-size: 1rem; /* Smaller button font size */
+                padding: 12px 25px; /* Adjust padding for mobile */
+            }
+        }
+
+        /* Media Queries for Small Mobile (max-width 480px) */
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1.5rem; /* Further reduce title size */
+            }
+
+            .hero h2 {
+                font-size: 1.2rem; /* Even smaller heading */
+            }
+
+            .hero p {
+                font-size: 0.9rem; /* Smaller paragraph text */
+            }
+
+            .hero a {
+                font-size: 1rem; /* Button font size for very small screens */
+                padding: 10px 20px; /* Smaller button */
+            }
+
+            .logo img {
+                width: 40px; /* Smaller logo on very small screens */
+            }
         }
     </style>
 </head>
