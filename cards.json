@@ -1,6 +1,20 @@
 [
   {
-    "_id": "679d36b0a0c7acfa0b235f77",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "begin_anew",
     "type": "action",
     "rarity": "common",
@@ -12,21 +26,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/begin_anew/base/begin_anew.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b1a0c7acfa0b235f79",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "bountiful_prospect",
     "type": "action",
     "rarity": "common",
@@ -38,21 +56,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/bountiful_prospect/base/bountiful_prospect.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b2a0c7acfa0b235f7b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "discover_schematics",
     "type": "action",
     "rarity": "common",
@@ -64,21 +86,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/discover_schematics/base/discover_schematics.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b2a0c7acfa0b235f7d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "expand_horizon",
     "type": "action",
     "rarity": "common",
@@ -90,21 +116,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/expand_horizon/base/expand_horizon.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b3a0c7acfa0b235f7f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "geoflux_surge",
     "type": "action",
     "rarity": "common",
@@ -116,21 +146,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/geoflux_surge/base/geoflux_surge.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b4a0c7acfa0b235f81",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "impel",
     "type": "action",
     "rarity": "common",
@@ -142,21 +176,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/impel/base/impel.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b5a0c7acfa0b235f83",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "panhandling",
     "type": "action",
     "rarity": "common",
@@ -168,21 +206,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/panhandling/base/panhandling.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b5a0c7acfa0b235f85",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "recycle",
     "type": "action",
     "rarity": "common",
@@ -194,21 +236,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/recycle/base/recycle.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b6a0c7acfa0b235f87",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "replenish",
     "type": "action",
     "rarity": "common",
@@ -220,21 +266,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/replenish/base/replenish.png",
-    "cost": [
-      0,
-      7,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b7a0c7acfa0b235f89",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "scavenge",
     "type": "action",
     "rarity": "common",
@@ -246,21 +296,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/scavenge/base/scavenge.png",
-    "cost": [
-      0,
-      4,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b8a0c7acfa0b235f8b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "scrap_together",
     "type": "action",
     "rarity": "common",
@@ -272,21 +326,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/scrap_together/base/scrap_together.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b9a0c7acfa0b235f8d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "seek_the_path",
     "type": "action",
     "rarity": "common",
@@ -298,21 +356,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/seek_the_path/base/seek_the_path.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36b9a0c7acfa0b235f8f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "timely_intel",
     "type": "action",
     "rarity": "common",
@@ -324,21 +386,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/energy/timely_intel/base/timely_intel.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36baa0c7acfa0b235f91",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "assassinate",
     "type": "action",
     "rarity": "common",
@@ -350,21 +416,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/assassinate/base/assassinate.png",
-    "cost": [
-      0,
-      1,
-      2,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36bba0c7acfa0b235f93",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "contracted_annhilation",
     "type": "action",
     "rarity": "common",
@@ -376,21 +446,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/contracted_annhilation/base/contracted_annhilation.png",
-    "cost": [
-      0,
-      2,
-      3,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36bca0c7acfa0b235f95",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "core_drain",
     "type": "action",
     "rarity": "common",
@@ -402,21 +476,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/core_drain/base/core_drain.png",
-    "cost": [
-      0,
-      2,
-      2,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36bda0c7acfa0b235f97",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "data_breach",
     "type": "action",
     "rarity": "common",
@@ -428,21 +506,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/data_breach/base/data_breach.png",
-    "cost": [
-      0,
-      2,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36bda0c7acfa0b235f99",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "enforced_halt",
     "type": "action",
     "rarity": "common",
@@ -454,21 +536,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/enforced_halt/base/enforced_halt.png",
-    "cost": [
-      0,
-      1,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36bea0c7acfa0b235f9b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "engineered_leak",
     "type": "action",
     "rarity": "common",
@@ -480,21 +566,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/engineered_leak/base/engineered_leak.png",
-    "cost": [
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36bfa0c7acfa0b235f9d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "erode",
     "type": "action",
     "rarity": "common",
@@ -506,21 +596,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/erode/base/erode.png",
-    "cost": [
-      0,
-      1,
-      2,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c0a0c7acfa0b235f9f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "feed_the_beast",
     "type": "action",
     "rarity": "common",
@@ -532,21 +626,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/feed_the_beast/base/feed_the_beast.png",
-    "cost": [
-      0,
-      1,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c0a0c7acfa0b235fa1",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "heist",
     "type": "action",
     "rarity": "common",
@@ -558,21 +656,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/heist/base/heist.png",
-    "cost": [
-      0,
-      0,
-      3,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c1a0c7acfa0b235fa3",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "memory_snipe",
     "type": "action",
     "rarity": "common",
@@ -584,21 +686,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/memory_snipe/base/memory_snipe.png",
-    "cost": [
-      0,
-      1,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c2a0c7acfa0b235fa5",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "outsourced_looting",
     "type": "action",
     "rarity": "common",
@@ -610,21 +716,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/outsourced_looting/base/outsourced_looting.png",
-    "cost": [
-      0,
-      1,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c3a0c7acfa0b235fa7",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "powerplant_shutdown",
     "type": "action",
     "rarity": "common",
@@ -636,21 +746,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/powerplant_shutdown/base/powerplant_shutdown.png",
-    "cost": [
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c4a0c7acfa0b235fa9",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "sabotage",
     "type": "action",
     "rarity": "common",
@@ -662,21 +776,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/gas/sabotage/base/sabotage.png",
-    "cost": [
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c4a0c7acfa0b235fab",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "blink",
     "type": "action",
     "rarity": "common",
@@ -688,21 +806,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/blink/base/blink.png",
-    "cost": [
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c5a0c7acfa0b235fad",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "collect_harvest",
     "type": "action",
     "rarity": "common",
@@ -714,21 +836,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/collect_harvest/base/collect_harvest.png",
-    "cost": [
-      0,
-      0,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c6a0c7acfa0b235faf",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "collective_depletion",
     "type": "action",
     "rarity": "common",
@@ -740,21 +866,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/collective_depletion/base/collective_depletion.png",
-    "cost": [
-      0,
-      1,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c7a0c7acfa0b235fb1",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "component_check",
     "type": "action",
     "rarity": "common",
@@ -766,21 +896,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/component_check/base/component_check.png",
-    "cost": [
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c7a0c7acfa0b235fb3",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "concerted_consumption",
     "type": "action",
     "rarity": "common",
@@ -792,21 +926,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/concerted_consumption/base/concerted_consumption.png",
-    "cost": [
-      0,
-      2,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c8a0c7acfa0b235fb5",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "courageous_defiance",
     "type": "action",
     "rarity": "common",
@@ -818,21 +956,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/courageous_defiance/base/courageous_defiance.png",
-    "cost": [
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36c9a0c7acfa0b235fb7",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "excavate",
     "type": "action",
     "rarity": "common",
@@ -844,21 +986,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/excavate/base/excavate.png",
-    "cost": [
-      0,
-      1,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36caa0c7acfa0b235fb9",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "force_field",
     "type": "action",
     "rarity": "common",
@@ -870,21 +1016,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/force_field/base/force_field.png",
-    "cost": [
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36cba0c7acfa0b235fbb",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "gem_drain",
     "type": "action",
     "rarity": "common",
@@ -896,21 +1046,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/gem_drain/base/gem_drain.png",
-    "cost": [
-      0,
-      1,
-      0,
-      6,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36cba0c7acfa0b235fbd",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "gemfinders_triumph",
     "type": "action",
     "rarity": "common",
@@ -922,21 +1076,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/gemfinders_triumph/base/gemfinders_triumph.png",
-    "cost": [
-      0,
-      0,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36cca0c7acfa0b235fbf",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "mineral_burst",
     "type": "action",
     "rarity": "common",
@@ -948,21 +1106,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/mineral_burst/base/mineral_burst.png",
-    "cost": [
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36cda0c7acfa0b235fc1",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "probe",
     "type": "action",
     "rarity": "common",
@@ -974,21 +1136,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/probe/base/probe.png",
-    "cost": [
-      0,
-      2,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36cea0c7acfa0b235fc3",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "sample_collection",
     "type": "action",
     "rarity": "common",
@@ -1000,21 +1166,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/mineral/sample_collection/base/sample_collection.png",
-    "cost": [
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36cea0c7acfa0b235fc5",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "clone",
     "type": "action",
     "rarity": "common",
@@ -1026,21 +1196,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/clone/base/clone.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36cfa0c7acfa0b235fc7",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "distant_visions",
     "type": "action",
     "rarity": "common",
@@ -1052,21 +1226,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/distant_visions/base/distant_visions.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d0a0c7acfa0b235fc9",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "entangled_transport",
     "type": "action",
     "rarity": "common",
@@ -1078,21 +1256,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/entangled_transport/base/entangled_transport.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d1a0c7acfa0b235fcb",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "ephemeral_insight",
     "type": "action",
     "rarity": "common",
@@ -1104,21 +1286,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/ephemeral_insight/base/ephemeral_insight.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d1a0c7acfa0b235fcd",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "phase_shift",
     "type": "action",
     "rarity": "common",
@@ -1130,21 +1316,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/phase_shift/base/phase_shift.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d2a0c7acfa0b235fcf",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "planetary_realignment",
     "type": "action",
     "rarity": "common",
@@ -1156,21 +1346,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/planetary_realignment/base/planetary_realignment.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d3a0c7acfa0b235fd1",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "populous_absorption",
     "type": "action",
     "rarity": "common",
@@ -1182,21 +1376,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/populous_absorption/base/populous_absorption.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d4a0c7acfa0b235fd3",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "rematerialize",
     "type": "action",
     "rarity": "common",
@@ -1208,21 +1406,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/rematerialize/base/rematerialize.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d5a0c7acfa0b235fd5",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "research",
     "type": "action",
     "rarity": "common",
@@ -1234,21 +1436,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/research/base/research.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d5a0c7acfa0b235fd7",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "revelation",
     "type": "action",
     "rarity": "common",
@@ -1260,21 +1466,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/revelation/base/revelation.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d6a0c7acfa0b235fd9",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "soul_absorption",
     "type": "action",
     "rarity": "common",
@@ -1286,21 +1496,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/soul_absorption/base/soul_absorption.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d7a0c7acfa0b235fdb",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "soul_burst",
     "type": "action",
     "rarity": "common",
@@ -1312,21 +1526,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/soul_burst/base/soul_burst.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d8a0c7acfa0b235fdd",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "teleport",
     "type": "action",
     "rarity": "common",
@@ -1338,21 +1556,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/action/water/teleport/base/teleport.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36d8a0c7acfa0b235fdf",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "bennu",
     "type": "celestial_object",
     "rarity": "common",
@@ -1364,27 +1586,25 @@
     "subtypes": "Asteroid",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Asteroid/bennu/base/bennu.png",
-    "cost": [],
     "vp": 3,
-    "jumpCostE": 5,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      3,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 5
   },
   {
-    "_id": "679d36d9a0c7acfa0b235fe1",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "davida",
     "type": "celestial_object",
     "rarity": "common",
@@ -1396,27 +1616,25 @@
     "subtypes": "Asteroid",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Asteroid/davida/base/davida.png",
-    "cost": [],
     "vp": 4,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      5,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36daa0c7acfa0b235fe3",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "germania",
     "type": "celestial_object",
     "rarity": "common",
@@ -1428,27 +1646,25 @@
     "subtypes": "Asteroid",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Asteroid/germania/base/germania.png",
-    "cost": [],
     "vp": 8,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      3,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36dba0c7acfa0b235fe5",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "psyche",
     "type": "celestial_object",
     "rarity": "common",
@@ -1460,27 +1676,25 @@
     "subtypes": "Asteroid",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Asteroid/psyche/base/psyche.png",
-    "cost": [],
     "vp": 3,
-    "jumpCostE": 7,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      7,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 7
   },
   {
-    "_id": "679d36dca0c7acfa0b235fe7",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "themis",
     "type": "celestial_object",
     "rarity": "common",
@@ -1492,27 +1706,25 @@
     "subtypes": "Asteroid",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Asteroid/themis/base/themis.png",
-    "cost": [],
     "vp": 2,
-    "jumpCostE": 3,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      2
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 3
   },
   {
-    "_id": "679d36dda0c7acfa0b235fe9",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "tisiphone",
     "type": "celestial_object",
     "rarity": "common",
@@ -1524,27 +1736,25 @@
     "subtypes": "Asteroid",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Asteroid/tisiphone/base/tisiphone.png",
-    "cost": [],
     "vp": 5,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      3,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36dda0c7acfa0b235feb",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "churyumov_gerasimenko",
     "type": "celestial_object",
     "rarity": "common",
@@ -1556,27 +1766,25 @@
     "subtypes": "Comet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Comet/churyumov_gerasimenko/base/churyumov_gerasimenko.png",
-    "cost": [],
     "vp": 6,
-    "jumpCostE": 2,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 2
   },
   {
-    "_id": "679d36dea0c7acfa0b235fed",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "giacobini_zinner",
     "type": "celestial_object",
     "rarity": "common",
@@ -1588,27 +1796,25 @@
     "subtypes": "Comet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Comet/giacobini_zinner/base/giacobini_zinner.png",
-    "cost": [],
     "vp": 2,
-    "jumpCostE": 3,
-    "jumpCostF": [
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 3
   },
   {
-    "_id": "679d36dfa0c7acfa0b235fef",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "hale_bopp",
     "type": "celestial_object",
     "rarity": "common",
@@ -1620,27 +1826,25 @@
     "subtypes": "Comet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Comet/hale_bopp/base/hale_bopp.png",
-    "cost": [],
     "vp": 2,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      3
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36e0a0c7acfa0b235ff1",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "hartley",
     "type": "celestial_object",
     "rarity": "common",
@@ -1652,27 +1856,25 @@
     "subtypes": "Comet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Comet/hartley/base/hartley.png",
-    "cost": [],
     "vp": 4,
-    "jumpCostE": 3,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      2
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 3
   },
   {
-    "_id": "679d36e0a0c7acfa0b235ff3",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "hyakutake",
     "type": "celestial_object",
     "rarity": "common",
@@ -1684,27 +1886,25 @@
     "subtypes": "Comet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Comet/hyakutake/base/hyakutake.png",
-    "cost": [],
     "vp": 2,
-    "jumpCostE": 5,
-    "jumpCostF": [
-      0,
-      0,
-      2,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 5
   },
   {
-    "_id": "679d36e1a0c7acfa0b235ff5",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "ison",
     "type": "celestial_object",
     "rarity": "common",
@@ -1716,27 +1916,55 @@
     "subtypes": "Comet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Comet/ison/base/ison.png",
-    "cost": [],
     "vp": 3,
-    "jumpCostE": 3,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 3
   },
   {
-    "_id": "679d36e2a0c7acfa0b235ff7",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "tid": "confluence",
+    "type": "celestial_object",
+    "rarity": "common",
+    "price": 100,
+    "artist": "",
+    "legality": "",
+    "set": "",
+    "cardText": "<sprite name=\"icon_omni\">",
+    "subtypes": "Nexus",
+    "flavorText": "",
+    "imageUrl": "allcards/images/celestial_object/Nexus/confluence/base/confluence.png",
+    "vp": 0,
+    "jumpCostE": 3
+  },
+  {
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "gliese",
     "type": "celestial_object",
     "rarity": "common",
@@ -1748,27 +1976,25 @@
     "subtypes": "Planet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Planet/gliese/base/gliese.png",
-    "cost": [],
     "vp": 5,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      2,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36e3a0c7acfa0b235ff9",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "hd",
     "type": "celestial_object",
     "rarity": "common",
@@ -1780,27 +2006,25 @@
     "subtypes": "Planet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Planet/hd/base/hd.png",
-    "cost": [],
     "vp": 3,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      2
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36e4a0c7acfa0b235ffb",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "kepler_10b",
     "type": "celestial_object",
     "rarity": "common",
@@ -1812,27 +2036,25 @@
     "subtypes": "Planet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Planet/kepler_10b/base/kepler_10b.png",
-    "cost": [],
     "vp": 3,
-    "jumpCostE": 6,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 6
   },
   {
-    "_id": "679d36e4a0c7acfa0b235ffd",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "kepler_22b",
     "type": "celestial_object",
     "rarity": "common",
@@ -1844,27 +2066,25 @@
     "subtypes": "Planet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Planet/kepler_22b/base/kepler_22b.png",
-    "cost": [],
     "vp": 4,
-    "jumpCostE": 6,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      3
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 6
   },
   {
-    "_id": "679d36e5a0c7acfa0b235fff",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "kepler_3b",
     "type": "celestial_object",
     "rarity": "common",
@@ -1876,27 +2096,25 @@
     "subtypes": "Planet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Planet/kepler_3b/base/kepler_3b.png",
-    "cost": [],
     "vp": 3,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      3,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36e6a0c7acfa0b236001",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "mercury",
     "type": "celestial_object",
     "rarity": "common",
@@ -1908,27 +2126,25 @@
     "subtypes": "Planet",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Planet/mercury/base/mercury.png",
-    "cost": [],
     "vp": 6,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      2
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36e7a0c7acfa0b236003",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "betelgeuse",
     "type": "celestial_object",
     "rarity": "common",
@@ -1940,27 +2156,25 @@
     "subtypes": "Star",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Star/betelgeuse/base/betelgeuse.png",
-    "cost": [],
     "vp": 7,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      2,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36e7a0c7acfa0b236005",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "bolton_disanti",
     "type": "celestial_object",
     "rarity": "common",
@@ -1972,27 +2186,25 @@
     "subtypes": "Star",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Star/bolton_disanti/base/bolton_disanti.png",
-    "cost": [],
     "vp": 3,
-    "jumpCostE": 3,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 3
   },
   {
-    "_id": "679d36e8a0c7acfa0b236007",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "canis_majoris",
     "type": "celestial_object",
     "rarity": "common",
@@ -2004,27 +2216,25 @@
     "subtypes": "Star",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Star/canis_majoris/base/canis_majoris.png",
-    "cost": [],
     "vp": 1,
-    "jumpCostE": 5,
-    "jumpCostF": [
-      0,
-      0,
-      4,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36e9a0c7acfa0b236009",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "deneb",
     "type": "celestial_object",
     "rarity": "common",
@@ -2036,27 +2246,25 @@
     "subtypes": "Star",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Star/deneb/base/deneb.png",
-    "cost": [],
     "vp": 4,
-    "jumpCostE": 4,
-    "jumpCostF": [
-      0,
-      0,
-      3,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 4
   },
   {
-    "_id": "679d36eaa0c7acfa0b23600b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "eta_carinae",
     "type": "celestial_object",
     "rarity": "common",
@@ -2068,27 +2276,25 @@
     "subtypes": "Star",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Star/eta_carinae/base/eta_carinae.png",
-    "cost": [],
     "vp": 3,
-    "jumpCostE": 6,
-    "jumpCostF": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 6
   },
   {
-    "_id": "679d36eba0c7acfa0b23600d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "tau_ceti",
     "type": "celestial_object",
     "rarity": "common",
@@ -2100,27 +2306,25 @@
     "subtypes": "Star",
     "flavorText": "",
     "imageUrl": "allcards/images/celestial_object/Star/tau_ceti/base/tau_ceti.png",
-    "cost": [],
     "vp": 1,
-    "jumpCostE": 2,
-    "jumpCostF": [
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    "presenceReward": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
-    "__v": 0
+    "jumpCostE": 2
   },
   {
-    "_id": "679d36eba0c7acfa0b23600f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "cognitive_enhancer",
     "type": "structure",
     "rarity": "common",
@@ -2132,21 +2336,25 @@
     "subtypes": "Processor",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/gas/cognitive_enhancer/base/cognitive_enhancer.png",
-    "cost": [
-      0,
-      1,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36eca0c7acfa0b236011",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "core_nullifier",
     "type": "structure",
     "rarity": "common",
@@ -2158,21 +2366,25 @@
     "subtypes": "Jammer",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/gas/core_nullifier/base/core_nullifier.png",
-    "cost": [
-      0,
-      2,
-      2,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36eda0c7acfa0b236013",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "ether_synthesizer",
     "type": "structure",
     "rarity": "common",
@@ -2184,21 +2396,25 @@
     "subtypes": "Engine",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/ether_synthesizer/base/ether_synthesizer.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36eea0c7acfa0b236015",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "fume_factory",
     "type": "structure",
     "rarity": "common",
@@ -2210,21 +2426,25 @@
     "subtypes": "Engine Refinery",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/fume_factory/base/fume_factory.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36efa0c7acfa0b236017",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "neural_scrambler",
     "type": "structure",
     "rarity": "common",
@@ -2236,21 +2456,25 @@
     "subtypes": "Repository",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/gas/neural_scrambler/base/neural_scrambler.png",
-    "cost": [
-      0,
-      0,
-      2,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36efa0c7acfa0b236019",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "rift_inducer",
     "type": "structure",
     "rarity": "common",
@@ -2262,21 +2486,25 @@
     "subtypes": "Engine",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/rift_inducer/base/rift_inducer.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f0a0c7acfa0b23601b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "soul_refactory",
     "type": "structure",
     "rarity": "common",
@@ -2288,21 +2516,25 @@
     "subtypes": "Processor",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/gas/soul_refactory/base/soul_refactory.png",
-    "cost": [
-      0,
-      1,
-      2,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f1a0c7acfa0b23601d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "autonomous_processor",
     "type": "structure",
     "rarity": "common",
@@ -2314,21 +2546,25 @@
     "subtypes": "Processor",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/mineral/autonomous_processor/base/autonomous_processor.png",
-    "cost": [
-      0,
-      1,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f2a0c7acfa0b23601f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "diamond_drill",
     "type": "structure",
     "rarity": "common",
@@ -2340,21 +2576,25 @@
     "subtypes": "Engine",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/diamond_drill/base/diamond_drill.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f3a0c7acfa0b236021",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "fuel_smelter",
     "type": "structure",
     "rarity": "common",
@@ -2366,21 +2606,25 @@
     "subtypes": "Engine Repository",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/fuel_smelter/base/fuel_smelter.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f3a0c7acfa0b236023",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "microgravity_excavator",
     "type": "structure",
     "rarity": "common",
@@ -2392,21 +2636,25 @@
     "subtypes": "Processor",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/microgravity_excavator/base/microgravity_excavator.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f4a0c7acfa0b236025",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "refinery_toll_gate",
     "type": "structure",
     "rarity": "common",
@@ -2418,21 +2666,25 @@
     "subtypes": "Refinery",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/mineral/refinery_toll_gate/base/refinery_toll_gate.png",
-    "cost": [
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f5a0c7acfa0b236027",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "ruin_delver",
     "type": "structure",
     "rarity": "common",
@@ -2444,21 +2696,25 @@
     "subtypes": "Engine",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/ruin_delver/base/ruin_delver.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f6a0c7acfa0b236029",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "yield_aggregator",
     "type": "structure",
     "rarity": "common",
@@ -2470,21 +2726,25 @@
     "subtypes": "Repository",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/mineral/yield_aggregator/base/yield_aggregator.png",
-    "cost": [
-      0,
-      0,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f7a0c7acfa0b23602b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "atmospheric_synthesizer",
     "type": "structure",
     "rarity": "common",
@@ -2496,21 +2756,25 @@
     "subtypes": "Engine",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/atmospheric_synthesizer/base/atmospheric_synthesizer.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f8a0c7acfa0b23602d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "core_transporter",
     "type": "structure",
     "rarity": "common",
@@ -2522,21 +2786,25 @@
     "subtypes": "Nexus",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/water/core_transporter/base/core_transporter.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f8a0c7acfa0b23602f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "cyclic_aquifer",
     "type": "structure",
     "rarity": "common",
@@ -2548,21 +2816,25 @@
     "subtypes": "Engine",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/cyclic_aquifer/base/cyclic_aquifer.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36f9a0c7acfa0b236031",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "interplanetary_propeller",
     "type": "structure",
     "rarity": "common",
@@ -2574,21 +2846,25 @@
     "subtypes": "Nexus",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/interplanetary_propeller/base/interplanetary_propeller.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36faa0c7acfa0b236033",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "moisture_array",
     "type": "structure",
     "rarity": "common",
@@ -2600,21 +2876,25 @@
     "subtypes": "Repository",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/water/moisture_array/base/moisture_array.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36fba0c7acfa0b236035",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "pulse_detector",
     "type": "structure",
     "rarity": "common",
@@ -2626,21 +2906,25 @@
     "subtypes": "Engine Probe",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/energy/pulse_detector/base/pulse_detector.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36fca0c7acfa0b236037",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "vitality_vault",
     "type": "structure",
     "rarity": "common",
@@ -2652,21 +2936,25 @@
     "subtypes": "Processor",
     "flavorText": "",
     "imageUrl": "allcards/images/structure/water/vitality_vault/base/vitality_vault.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36fca0c7acfa0b236039",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "adept_technopath",
     "type": "unit",
     "rarity": "common",
@@ -2678,21 +2966,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/adept_technopath/base/adept_technopath.png",
-    "cost": [
-      0,
-      6,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36fda0c7acfa0b23603b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "cunning_instigator",
     "type": "unit",
     "rarity": "common",
@@ -2704,21 +2996,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/cunning_instigator/base/cunning_instigator.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36fea0c7acfa0b23603d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "disassembly_coordinator",
     "type": "unit",
     "rarity": "common",
@@ -2730,21 +3026,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/disassembly_coordinator/base/disassembly_coordinator.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d36ffa0c7acfa0b23603f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "eccentric_alchemist",
     "type": "unit",
     "rarity": "common",
@@ -2756,21 +3056,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/eccentric_alchemist/base/eccentric_alchemist.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3700a0c7acfa0b236041",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "energy_sage",
     "type": "unit",
     "rarity": "common",
@@ -2782,21 +3086,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/energy_sage/base/energy_sage.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3700a0c7acfa0b236043",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "expedition_scout",
     "type": "unit",
     "rarity": "common",
@@ -2808,21 +3116,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/expedition_scout/base/expedition_scout.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3701a0c7acfa0b236045",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "knowledge_peddler",
     "type": "unit",
     "rarity": "common",
@@ -2834,21 +3146,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/knowledge_peddler/base/knowledge_peddler.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3702a0c7acfa0b236047",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "plundering_nomad",
     "type": "unit",
     "rarity": "common",
@@ -2860,21 +3176,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/plundering_nomad/base/plundering_nomad.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3703a0c7acfa0b236049",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "quirky_librarian",
     "type": "unit",
     "rarity": "common",
@@ -2886,21 +3206,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/quirky_librarian/base/quirky_librarian.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3704a0c7acfa0b23604b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "rookie_excavator",
     "type": "unit",
     "rarity": "common",
@@ -2912,21 +3236,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/rookie_excavator/base/rookie_excavator.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3704a0c7acfa0b23604d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "scrap_technician",
     "type": "unit",
     "rarity": "common",
@@ -2938,21 +3266,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/scrap_technician/base/scrap_technician.png",
-    "cost": [
-      0,
-      3,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3705a0c7acfa0b23604f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "sly_smuggler",
     "type": "unit",
     "rarity": "common",
@@ -2964,21 +3296,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/sly_smuggler/base/sly_smuggler.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3706a0c7acfa0b236051",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "temporal_extractor",
     "type": "unit",
     "rarity": "common",
@@ -2990,21 +3326,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/energy/temporal_extractor/base/temporal_extractor.png",
-    "cost": [
-      0,
-      7,
-      0,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3707a0c7acfa0b236053",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "alignment_shuffler",
     "type": "unit",
     "rarity": "common",
@@ -3016,21 +3356,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/alignment_shuffler/base/alignment_shuffler.png",
-    "cost": [
-      0,
-      1,
-      2,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3708a0c7acfa0b236055",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "core_disruptor",
     "type": "unit",
     "rarity": "common",
@@ -3042,21 +3386,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/core_disruptor/base/core_disruptor.png",
-    "cost": [
-      0,
-      0,
-      3,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3708a0c7acfa0b236057",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "essence_denier",
     "type": "unit",
     "rarity": "common",
@@ -3068,21 +3416,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/essence_denier/base/essence_denier.png",
-    "cost": [
-      0,
-      1,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3709a0c7acfa0b236059",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "essence_eater",
     "type": "unit",
     "rarity": "common",
@@ -3094,21 +3446,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/essence_eater/base/essence_eater.png",
-    "cost": [
-      0,
-      1,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d370aa0c7acfa0b23605b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "essence_harvester",
     "type": "unit",
     "rarity": "common",
@@ -3120,21 +3476,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/essence_harvester/base/essence_harvester.png",
-    "cost": [
-      0,
-      0,
-      2,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d370ba0c7acfa0b23605d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "essence_synthesizer",
     "type": "unit",
     "rarity": "common",
@@ -3146,21 +3506,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/essence_synthesizer/base/essence_synthesizer.png",
-    "cost": [
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d370ba0c7acfa0b23605f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "fission_dynamo",
     "type": "unit",
     "rarity": "common",
@@ -3172,21 +3536,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/fission_dynamo/base/fission_dynamo.png",
-    "cost": [
-      0,
-      1,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d370ca0c7acfa0b236061",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "fleeing_saboteur",
     "type": "unit",
     "rarity": "common",
@@ -3198,21 +3566,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/fleeing_saboteur/base/fleeing_saboteur.png",
-    "cost": [
-      0,
-      1,
-      2,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d370da0c7acfa0b236063",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "info_scooper",
     "type": "unit",
     "rarity": "common",
@@ -3224,21 +3596,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/info_scooper/base/info_scooper.png",
-    "cost": [
-      0,
-      1,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d370ea0c7acfa0b236065",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "rift_inhaler",
     "type": "unit",
     "rarity": "common",
@@ -3250,21 +3626,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/rift_inhaler/base/rift_inhaler.png",
-    "cost": [
-      0,
-      3,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d370ea0c7acfa0b236067",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "synapse_sniper",
     "type": "unit",
     "rarity": "common",
@@ -3276,21 +3656,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/synapse_sniper/base/synapse_sniper.png",
-    "cost": [
-      0,
-      2,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d370fa0c7acfa0b236069",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "void_sage",
     "type": "unit",
     "rarity": "common",
@@ -3302,21 +3686,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/void_sage/base/void_sage.png",
-    "cost": [
-      0,
-      2,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3710a0c7acfa0b23606b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "voltaic_transmuter",
     "type": "unit",
     "rarity": "common",
@@ -3328,21 +3716,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/gas/voltaic_transmuter/base/voltaic_transmuter.png",
-    "cost": [
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3711a0c7acfa0b23606d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "adept_prospector",
     "type": "unit",
     "rarity": "common",
@@ -3354,21 +3746,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/adept_prospector/base/adept_prospector.png",
-    "cost": [
-      0,
-      2,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3712a0c7acfa0b23606f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "architect_of_activation",
     "type": "unit",
     "rarity": "common",
@@ -3380,21 +3776,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/architect_of_activation/base/architect_of_activation.png",
-    "cost": [
-      0,
-      2,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3713a0c7acfa0b236071",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "core_stimulator",
     "type": "unit",
     "rarity": "common",
@@ -3406,21 +3806,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/core_stimulator/base/core_stimulator.png",
-    "cost": [
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3713a0c7acfa0b236073",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "energy_excavator",
     "type": "unit",
     "rarity": "common",
@@ -3432,21 +3836,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/energy_excavator/base/energy_excavator.png",
-    "cost": [
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3714a0c7acfa0b236075",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "energy_transmuter",
     "type": "unit",
     "rarity": "common",
@@ -3458,21 +3866,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/energy_transmuter/base/energy_transmuter.png",
-    "cost": [
-      0,
-      0,
-      0,
-      3,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3715a0c7acfa0b236077",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "essence_farmer",
     "type": "unit",
     "rarity": "common",
@@ -3484,21 +3896,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/essence_farmer/base/essence_farmer.png",
-    "cost": [
-      0,
-      2,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3716a0c7acfa0b236079",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "excavation_marshal",
     "type": "unit",
     "rarity": "common",
@@ -3510,21 +3926,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/excavation_marshal/base/excavation_marshal.png",
-    "cost": [
-      0,
-      3,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3716a0c7acfa0b23607b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "metallurgic_refiner",
     "type": "unit",
     "rarity": "common",
@@ -3536,21 +3956,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/metallurgic_refiner/base/metallurgic_refiner.png",
-    "cost": [
-      0,
-      0,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3717a0c7acfa0b23607d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "pit_prospector",
     "type": "unit",
     "rarity": "common",
@@ -3562,21 +3986,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/pit_prospector/base/pit_prospector.png",
-    "cost": [
-      0,
-      1,
-      0,
-      2,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3718a0c7acfa0b23607f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "planetary_gatekeeper",
     "type": "unit",
     "rarity": "common",
@@ -3588,21 +4016,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/planetary_gatekeeper/base/planetary_gatekeeper.png",
-    "cost": [
-      0,
-      2,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3719a0c7acfa0b236081",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "prospecting_neophyte",
     "type": "unit",
     "rarity": "common",
@@ -3614,21 +4046,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/prospecting_neophyte/base/prospecting_neophyte.png",
-    "cost": [
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d371aa0c7acfa0b236083",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "soul_bargainer",
     "type": "unit",
     "rarity": "common",
@@ -3640,21 +4076,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/soul_bargainer/base/soul_bargainer.png",
-    "cost": [
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d371ba0c7acfa0b236085",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "vigilant_defender",
     "type": "unit",
     "rarity": "common",
@@ -3666,21 +4106,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/mineral/vigilant_defender/base/vigilant_defender.png",
-    "cost": [
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d371ba0c7acfa0b236087",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "aquavein_pathfinder",
     "type": "unit",
     "rarity": "common",
@@ -3692,21 +4136,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/aquavein_pathfinder/base/aquavein_pathfinder.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d371ca0c7acfa0b236089",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "celestial_seer",
     "type": "unit",
     "rarity": "common",
@@ -3718,21 +4166,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/celestial_seer/base/celestial_seer.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d371da0c7acfa0b23608b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "cerebral_reshaper",
     "type": "unit",
     "rarity": "common",
@@ -3744,21 +4196,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/cerebral_reshaper/base/cerebral_reshaper.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d371ea0c7acfa0b23608d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "cosmic_collider",
     "type": "unit",
     "rarity": "common",
@@ -3770,21 +4226,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/cosmic_collider/base/cosmic_collider.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d371ea0c7acfa0b23608f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "essence_extractor",
     "type": "unit",
     "rarity": "common",
@@ -3796,21 +4256,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/essence_extractor/base/essence_extractor.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d371fa0c7acfa0b236091",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "hivemind_harvester",
     "type": "unit",
     "rarity": "common",
@@ -3822,21 +4286,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/hivemind_harvester/base/hivemind_harvester.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3720a0c7acfa0b236093",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "liquiportal_summoner",
     "type": "unit",
     "rarity": "common",
@@ -3848,21 +4316,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/liquiportal_summoner/base/liquiportal_summoner.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3721a0c7acfa0b236095",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "sacrificial_emissary",
     "type": "unit",
     "rarity": "common",
@@ -3874,21 +4346,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/sacrificial_emissary/base/sacrificial_emissary.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3722a0c7acfa0b236097",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "soul_alchemist",
     "type": "unit",
     "rarity": "common",
@@ -3900,21 +4376,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/soul_alchemist/base/soul_alchemist.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3722a0c7acfa0b236099",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "surge_taskmaster",
     "type": "unit",
     "rarity": "common",
@@ -3926,21 +4406,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/surge_taskmaster/base/surge_taskmaster.png",
-    "cost": [
-      0,
-      0,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3723a0c7acfa0b23609b",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "synapse_leech",
     "type": "unit",
     "rarity": "common",
@@ -3952,21 +4436,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/synapse_leech/base/synapse_leech.png",
-    "cost": [
-      0,
-      2,
-      0,
-      0,
-      1
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3724a0c7acfa0b23609d",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "unwelcoming_gatekeeper",
     "type": "unit",
     "rarity": "common",
@@ -3978,21 +4466,25 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/unwelcoming_gatekeeper/base/unwelcoming_gatekeeper.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   },
   {
-    "_id": "679d3725a0c7acfa0b23609f",
+    "cost": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "jumpCostF": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
+    "presenceReward": {
+      "vp": 0,
+      "base": {},
+      "hybrid": {}
+    },
     "tid": "wavefunction_collapser",
     "type": "unit",
     "rarity": "common",
@@ -4004,17 +4496,7 @@
     "subtypes": "",
     "flavorText": "",
     "imageUrl": "allcards/images/unit/water/wavefunction_collapser/base/wavefunction_collapser.png",
-    "cost": [
-      0,
-      1,
-      0,
-      0,
-      2
-    ],
     "vp": 0,
-    "jumpCostE": 0,
-    "jumpCostF": [],
-    "presenceReward": [],
-    "__v": 0
+    "jumpCostE": 0
   }
 ]
