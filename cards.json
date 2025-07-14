@@ -6,12 +6,10 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -32,16 +30,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -62,16 +60,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -92,16 +90,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -122,16 +120,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -152,16 +150,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -182,16 +180,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -212,16 +210,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -242,16 +240,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 7
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -272,16 +270,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 4
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -302,16 +300,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -332,16 +330,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -362,16 +360,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -392,16 +390,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -422,16 +421,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Gas": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -452,16 +452,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -482,16 +483,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -512,16 +514,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -542,16 +545,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -572,16 +575,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -602,16 +606,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -632,16 +637,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -662,16 +667,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -692,16 +698,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -722,16 +729,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -752,16 +759,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -782,16 +789,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -812,16 +820,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -842,16 +850,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -872,16 +881,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -902,16 +911,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -932,16 +942,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -962,16 +972,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -992,16 +1003,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1022,16 +1033,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 6
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1052,16 +1064,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1082,16 +1094,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1112,16 +1125,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1142,16 +1156,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1172,16 +1187,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1202,16 +1218,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1232,16 +1248,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1262,16 +1278,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1292,16 +1309,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1322,16 +1340,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1352,16 +1370,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1382,16 +1401,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1412,16 +1432,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1442,16 +1463,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1472,16 +1494,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1502,16 +1525,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1532,16 +1556,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -1566,13 +1591,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 3
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "bennu",
@@ -1596,13 +1623,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 5
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "davida",
@@ -1626,13 +1655,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 3
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "germania",
@@ -1656,13 +1687,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 7
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "psyche",
@@ -1686,13 +1719,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 2
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "themis",
@@ -1716,13 +1751,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 3
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "tisiphone",
@@ -1746,13 +1783,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 1
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "churyumov_gerasimenko",
@@ -1776,13 +1815,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "giacobini_zinner",
@@ -1806,13 +1847,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 3
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "hale_bopp",
@@ -1836,13 +1879,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 2
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "hartley",
@@ -1866,13 +1911,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "hyakutake",
@@ -1896,13 +1943,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 1
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "ison",
@@ -1926,13 +1975,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
-      "hybrid": {}
+      "hybrid": {
+        "Omni": 2
+      }
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "confluence",
@@ -1956,13 +2007,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "gliese",
@@ -1986,13 +2039,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 2
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "hd",
@@ -2016,13 +2071,13 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "kepler_10b",
@@ -2046,13 +2101,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 3
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "kepler_22b",
@@ -2076,13 +2133,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 3
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "kepler_3b",
@@ -2106,13 +2165,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 2
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "mercury",
@@ -2136,13 +2197,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "tid": "betelgeuse",
@@ -2166,13 +2229,13 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "bolton_disanti",
@@ -2196,13 +2259,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 3
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "tid": "canis_majoris",
@@ -2226,13 +2291,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 3
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "deneb",
@@ -2256,13 +2323,13 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "tid": "eta_carinae",
@@ -2286,13 +2353,15 @@
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "tid": "tau_ceti",
@@ -2312,16 +2381,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2342,16 +2412,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2372,16 +2443,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2402,16 +2473,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2432,16 +2503,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2462,16 +2533,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2492,16 +2563,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2522,16 +2594,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2552,16 +2625,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2582,16 +2655,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2612,16 +2685,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2642,16 +2715,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2672,16 +2746,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2702,16 +2776,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2732,16 +2806,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2762,16 +2836,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2792,16 +2866,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2822,16 +2896,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2852,16 +2926,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2882,16 +2957,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2912,16 +2987,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2942,16 +3018,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 6
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -2972,16 +3048,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3002,16 +3078,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3032,16 +3108,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3062,16 +3138,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3092,16 +3168,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3122,16 +3198,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3152,16 +3228,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3182,16 +3258,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3212,16 +3288,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3242,16 +3318,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3272,16 +3348,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3302,16 +3378,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 7
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3332,16 +3408,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3362,16 +3439,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3392,16 +3469,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3422,16 +3500,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3452,16 +3531,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3482,16 +3561,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3512,16 +3591,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3542,16 +3622,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3572,16 +3653,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3602,16 +3684,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3632,16 +3715,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3662,16 +3746,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3692,16 +3777,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Gas": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3722,16 +3807,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3752,16 +3838,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3782,16 +3869,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3812,16 +3900,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3842,16 +3930,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 3
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3872,16 +3960,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3902,16 +3991,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 3,
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3932,16 +4022,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3962,16 +4052,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -3992,16 +4083,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4022,16 +4114,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4052,16 +4145,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4082,16 +4175,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Mineral": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4112,16 +4206,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4142,16 +4236,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4172,16 +4266,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4202,16 +4297,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4232,16 +4328,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4262,16 +4359,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4292,16 +4389,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4322,16 +4419,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4352,16 +4450,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4382,16 +4481,16 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4412,16 +4511,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 2,
+        "Water": 1
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4442,16 +4542,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
@@ -4472,16 +4573,17 @@
   {
     "cost": {
       "vp": 0,
-      "base": {},
+      "base": {
+        "Energy": 1,
+        "Water": 2
+      },
       "hybrid": {}
     },
     "jumpCostF": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
     "presenceReward": {
-      "vp": 0,
       "base": {},
       "hybrid": {}
     },
